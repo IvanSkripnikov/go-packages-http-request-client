@@ -1,1 +1,1 @@
-# go-packages-http-request-client
+# go-packages-http-response-client
